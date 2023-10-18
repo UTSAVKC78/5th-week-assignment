@@ -1,4 +1,4 @@
-input_string = input("enter a string: ")
+input_string = input("Enter a string: ")
 leng = len(input_string)
 i = leng - 1
 
